@@ -1,0 +1,52 @@
+{
+    "folders": [
+        {
+            "path": "RelatedTable"
+        },
+        {
+            "path": "TableExt"
+        },
+        {
+            "path": "JLEGenerateDemoData"
+        },
+        {
+            "path": "JLETableExt1"
+        },
+        {
+            "path": "JLETableExt2"
+        },
+        {
+            "path": "JLETableExt3"
+        },
+        {
+            "path": "JLETableExt4"
+        },
+        {
+            "path": "JLETableExt5"
+        },
+        {
+            "path": "JLETableExt6"
+        },
+        {
+            "path": "JLERelatedTable1"
+        },
+        {
+            "path": "JLERelatedTable2"
+        },
+        {
+            "path": "JLERelatedTable3"
+        },
+        {
+            "path": "JLERelatedTable4"
+        },
+        {
+            "path": "JLERelatedTable5"
+        },
+        {
+            "path": "JLERelatedTable6"
+        }
+    ],
+    "settings": {
+        "al.packageCachePath": "../.alpackages"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "9cdf902a-51c7-4ed7-b7ed-51f1b8abecdf",
+  "name": "JLERelatedTable6",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies":  [
+    {
+        "id":  "408c053e-c7d8-4424-bc70-8207fb82aad6",
+        "name":  "JLEGenerateDemoData",
+        "publisher":  "Default publisher",
+        "version":  "1.0.0.0"
+    }
+],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TableExt.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
